@@ -1,0 +1,7 @@
+<suite name = "Restassured">
+    <test name = "Sample Test">
+        <classes>
+            <class name = "com.apitests.test.tasks.PostTasksTest" />
+        </classes>
+    </test>
+</suite>
